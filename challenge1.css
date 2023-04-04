@@ -1,0 +1,117 @@
+
+body {
+    background-color:rgb(250, 251, 253);
+    background-image: url(bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: center;
+    background-size: cover;
+    font-family:Quicksand ;
+    font-size: 15px ;
+    font-weight:400;
+    color: hsl(217, 5%, 29%);
+}
+#logo{
+    position: absolute;
+    left: 51%;
+    top: 90px;
+    
+}
+    #box1{
+       position: absolute;
+    left:27%;
+    top: 235px;
+    }
+    h1{
+    font-size: 40px;   
+    }
+    #box2{
+        position: absolute;
+     left:25%;
+     top: 310px;
+    }
+    p{
+        font-size:17px;
+        color:  hsl(213, 6%, 70%);
+    }
+    button{
+        background-color:rgb(92, 200, 173);
+        border-radius: 25px;
+        border-color: rgb(92, 200, 173);  
+        position: relative;
+        top: 400px;
+        left: 35%;
+        padding: 10px 23px;
+       
+    }
+     p1{
+        color: aliceblue;
+        font-size: 17px;
+        font-family: Quicksand;
+     }
+     #button1{
+        background-color:rgb(92, 126, 200);
+        border-radius: 25px;
+        border-color: rgb(92, 200, 173);  
+        position: relative;
+        top: 400px;
+        left: 37%;
+        padding: 10px 22px;
+     }
+     #box3{
+        position: absolute;
+     left:36%;
+     top: 600px;
+     font-size: 20px; 
+     }
+     
+     #box4{
+        position: relative;
+        right: 20%;
+     }
+     img{
+        position: relative;
+        right: 73%;
+       
+     }
+     #box5{
+        position: relative;
+        left: 32%;
+        bottom:410px;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+     }
+     #h22{
+        position: relative;
+       bottom: 160px;
+     }
+     #p2{
+        position: relative;
+        bottom: 150px;
+        right:20% ;
+     }
+     #img2{
+        position: relative;
+        right: 28%;
+        bottom: 80px;
+     }
+     #box7{
+        position: relative;
+        bottom:50px;
+     }
+     .grid-container1{
+      
+      display: flex;
+     
+     
+     }
+     #grid-container2{
+    margin-top: 200px;
+     
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+     }
+    
+
